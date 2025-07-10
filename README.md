@@ -45,11 +45,11 @@ uvicorn app:app --reload
 
 ## Technologies Used:
 
-Groq LLaMA3-8B via langchain_groq
-Sentence Transformers (all-MiniLM-L6-v2
-FAISS for vector search
-LangChain
-FastAPI
+-Groq LLaMA3-8B via langchain_groq
+-Sentence Transformers (all-MiniLM-L6-v2
+-FAISS for vector search
+-LangChain
+-FastAPI
 
 
 
